@@ -1,7 +1,7 @@
 # traceCrm
 (stage TraceNova)
 
-I maked some components of crm (custom relationship management)
+I make some components of crm (custom relationship management)
 
-##This is a demonstartion
+###Demonstration
 http://tracecrm.16mb.com

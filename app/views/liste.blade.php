@@ -43,7 +43,7 @@
                                         <li ><span  style="height:30px;margin:10px;"class="menu-icon icon-asterisk"></span><b>Profile</b></li>
                                         <li><a href="#"><i class="menu-icon "></i>Your Profile </a></li>
                                         <li><a href="#"><i class="menu-icon "></i>Edit Profile</a></li>
-                                        <li><a href="#"><i class="menu-icon icon-signout"></i>Logout</a></li>
+                                        <li><a href="http://tracecrm.16mb.com/auth/logout"><i class="menu-icon icon-signout"></i>Logout</a></li>
 
                             </ul>
                             <br>

@@ -74,7 +74,7 @@
                         {{ link_to('command/del/' . $command->id, 'delete order', array('class' => 'btn btn-danger btn-xs', 'onclick' => 'return confirm(\'Vraiment supprimer cet article ?\')')) }}
                     @endif
                     <em class="pull-right">
-                        Ecrit par {{{ $command->user->name }}} le {{ $command->created_at->format('d-m-Y') }}
+                        Ordered by {{{ $command->user->name }}}  {{ $command->created_at->format('d-m-Y') }}
                     </em>
                 </div>
             </div>

@@ -10,7 +10,7 @@
 
 
   		<li>
-	  		{{ link_to('auth/logout', 'Deconnexion', array('class' => '')) }}
+	  		{{ link_to('auth/logout', 'Logout', array('class' => '')) }}
   		</li>
         <li> {{link_to('contact/form', 'Contact',array('class' => '')) }}</li>
         

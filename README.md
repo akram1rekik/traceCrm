@@ -4,9 +4,6 @@ TraceCRM is a web application of a mini crm
 (customer relationship management) made with
 Laravel 4.2
 
-## Demonstration
-
-[tracecrm website](http://tracecrm.16mb.com).
 
 ### Contributing To Laravel
 
